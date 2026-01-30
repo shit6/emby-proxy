@@ -1,0 +1,7 @@
+{
+  "name": "emby-proxy-middleware",
+  "runtime": "Nodejs18",
+  "handler": "_middleware.handler",
+  "memorySize": 128,
+  "timeout": 60
+}
